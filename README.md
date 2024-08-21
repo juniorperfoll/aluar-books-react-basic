@@ -1,3 +1,15 @@
+# Projeto AluraBooks do curso React: comece seu projeto full stack
+
+Projeto destinado aos seguintes conteúdos:
+
+Aprendemos conceitos, história do React e o porquê de precisarmos aprender React. Também falamos sobre mercado de trabalho, instalamos o React, criamos nosso primeiro projeto.
+
+Depois, aprendemos os conceitos de componentização para reaproveitar código, styled components, para estilizar sem precisar de arquivos CSS. Criamos um site de livros chamado Alura Books, com um header, buscar e outros componentes.
+
+Aprendemos o conceito de state, para criar a barra de consulta. Manipulamos filtros e arrays para criar um componente utilizável.
+
+Também aprendemos a lidar com props.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
